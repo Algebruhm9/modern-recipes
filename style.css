@@ -1,0 +1,20 @@
+#cooking {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.maintxt {
+    text-align: center;
+}
+hr {
+    height:3px;
+    border-width: 0;
+    background-color: pink;
+}
+#border {
+    height: 3px;
+    border-width: 0;
+    width: 75%;
+    background-color: pink;
+}
