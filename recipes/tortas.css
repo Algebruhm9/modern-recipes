@@ -1,0 +1,40 @@
+#Headline {
+    text-align: center;
+    font-family: "Times New Roman", Verdana, sans-serif;
+}
+hr {
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: none;
+    background-color: rgb(255, 112, 112);
+}
+.maintxt {
+    font-family: Arial,Verdana, sans-serif;
+}
+#lists{
+    line-height: 25px;
+}
+#torta {
+    height: 400px;
+    width: 400px;
+}
+
+#border {
+    height: 3px;
+    border: none;
+    margin-right: 50%;
+    background-color: rgb(114,185,114);
+    }
+#directions {
+    height: 3px;
+    margin-right: 50%;
+    border: none;
+    background-color: rgb(114, 185, 114);
+}
+.btmtxt {
+    font-weight: 900;
+    font-family: "Times New Roman", Verdana, sans-serif;
+    color: black;
+}

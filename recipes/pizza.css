@@ -1,0 +1,50 @@
+.headline {
+    text-align: center;
+}
+hr {
+    height: 3px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: orange;
+}
+.maintxt {
+    line-height: 24px;
+    font-size: 20px;
+    font-family: Arial, Verdana, sans-serif;
+}
+#pizza {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 400px;
+    width: 643px;
+}
+#headline {
+    text-align: center;
+}
+#mainline {
+    display: block;
+    height: 3px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: orange;
+}
+.Spacers {
+    height: 3px;
+    border: none;
+    margin-right: 50%;
+    background-color: orange;
+}
+#Spacerdark {
+    background-color: rgb(175, 114, 0);
+}
+.btmtxt {
+    font-family: "Times New Roman", Verdana, sans-serif;
+    font-weight: 900;
+    color: black;
+}
